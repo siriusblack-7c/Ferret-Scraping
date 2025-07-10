@@ -21,8 +21,8 @@ require (
 	github.com/stretchr/testify v1.7.1
 	github.com/wI2L/jettison v0.7.4
 	golang.org/x/net v0.40.0
-	golang.org/x/sync v0.14.0
-	golang.org/x/text v0.25.0
+	golang.org/x/sync v0.16.0
+	golang.org/x/text v0.27.0
 )
 
 require (
