@@ -1,6 +1,6 @@
 module github.com/MontFerret/ferret
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.2
 
@@ -20,9 +20,9 @@ require (
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/stretchr/testify v1.7.1
 	github.com/wI2L/jettison v0.7.4
-	golang.org/x/net v0.40.0
-	golang.org/x/sync v0.14.0
-	golang.org/x/text v0.25.0
+	golang.org/x/net v0.46.0
+	golang.org/x/sync v0.17.0
+	golang.org/x/text v0.30.0
 )
 
 require (
@@ -38,6 +38,6 @@ require (
 	github.com/smarty/assertions v1.15.0 // indirect
 	github.com/stretchr/objx v0.1.0 // indirect
 	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.37.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
