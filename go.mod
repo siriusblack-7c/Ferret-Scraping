@@ -1,6 +1,6 @@
 module github.com/MontFerret/ferret
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.2
 
@@ -21,7 +21,7 @@ require (
 	github.com/stretchr/testify v1.7.1
 	github.com/wI2L/jettison v0.7.4
 	golang.org/x/net v0.40.0
-	golang.org/x/sync v0.14.0
+	golang.org/x/sync v0.19.0
 	golang.org/x/text v0.25.0
 )
 
